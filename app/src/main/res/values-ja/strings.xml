@@ -1,0 +1,7 @@
+<resources>
+    <string name="welcome">ようこそ!</string>
+    <string name="email">電子メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="login">ログイン</string>
+    <string name="signup">アカウントを持っていないのですか？サインアップ</string>
+</resources>

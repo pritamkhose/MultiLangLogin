@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyMultiLang</string>
+
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>français</item>
+        <item>日本語</item>
+        <item>Italy</item>
+        <item>Deutsch</item>
+    </string-array>
+
+
+    <string name="welcome">Welcome!</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Don\'t have account? Sign Up</string>
+</resources>
